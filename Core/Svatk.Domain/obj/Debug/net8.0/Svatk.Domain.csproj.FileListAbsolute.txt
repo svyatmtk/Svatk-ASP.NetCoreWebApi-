@@ -1,0 +1,11 @@
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\bin\Debug\net8.0\Svatk.Domain.deps.json
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\bin\Debug\net8.0\Svatk.Domain.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\bin\Debug\net8.0\Svatk.Domain.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\Svatk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\Svatk.Domain.AssemblyInfoInputs.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\Svatk.Domain.AssemblyInfo.cs
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\Svatk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\Svatk.Domain.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\refint\Svatk.Domain.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\Svatk.Domain.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Domain\obj\Debug\net8.0\ref\Svatk.Domain.dll

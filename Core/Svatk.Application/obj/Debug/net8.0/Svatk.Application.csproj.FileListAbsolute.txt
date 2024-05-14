@@ -1,0 +1,17 @@
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.Application.deps.json
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.Application.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.Application.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.Domain.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.Domain.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.csproj.AssemblyReference.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.AssemblyInfoInputs.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.AssemblyInfo.cs
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.csproj.CoreCompileInputs.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.csproj.CopyComplete
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\refint\Svatk.Application.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\Svatk.Application.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\obj\Debug\net8.0\ref\Svatk.Application.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.DAL.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Core\Svatk.Application\bin\Debug\net8.0\Svatk.DAL.pdb

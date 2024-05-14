@@ -1,0 +1,17 @@
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\bin\Debug\net8.0\Svatk.DAL.deps.json
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\bin\Debug\net8.0\Svatk.DAL.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\bin\Debug\net8.0\Svatk.DAL.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\bin\Debug\net8.0\Svatk.Domain.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\bin\Debug\net8.0\Svatk.Domain.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.csproj.AssemblyReference.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.AssemblyInfoInputs.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.AssemblyInfo.cs
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.csproj.CopyComplete
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\refint\Svatk.DAL.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.pdb
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\ref\Svatk.DAL.dll
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\bin\Debug\net8.0\Svatk.DAL.runtimeconfig.json
+C:\Users\Eugeny\RiderProjects\Svatk\Svatk.DAL\obj\Debug\net8.0\Svatk.DAL.genruntimeconfig.cache
